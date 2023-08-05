@@ -46,17 +46,12 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/fatiharridho"><img src="https://github-readme-stats.vercel.app/api?username=fatiharridho&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/fatiharridho"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiharridho&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/zaenudinn"><img src="https://github-readme-stats.vercel.app/api?username=fatiharridho&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/zaenudinn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiharridho&theme=radical&layout=compact"></a></p> 
 
-### My Project With Friends 🔭
-<a href="https://github.com/FatihArridho/brutal">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=brutal&theme=dark)</a>
-<a href="https://github.com/DikaArdnt/Hisoka-Morou">![github card](https://github-readme-stats.vercel.app/api/pin/?username=dikaardnt&repo=hisoka-morou&theme=nightowl)</a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck">![github card](https://github-readme-stats.vercel.app/api/pin/?username=zhwzein&repo=killua-zoldyck&theme=dark)</a>
-<a href="https://github.com/adiwajshing/Baileys">![github card](https://github-readme-stats.vercel.app/api/pin/?username=adiwajshing&repo=baileys&theme=nightowl)</a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md">![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=alphabot-md&theme=dark)</a>
-<a href="https://github.com/FatihArridho/islamiah">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=islamiah&theme=nightowl)</a>
-<a href="https://github.com/FatihArridho/pramuka">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=pramuka&theme=dark)</a>
+<a href="https://github.com/adiwajshing/zaenudinn">![github card](https://github-readme-stats.vercel.app/api/pin/?username=adiwajshing&repo=baileys&theme=nightowl)</a>
+<a href="https://github.com/zaenudinn/islamiah">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=islamiah&theme=nightowl)</a>
+<a href="https://github.com/zaenudinn/pramuka">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=pramuka&theme=dark)</a>
 
 
 <p align="center">
