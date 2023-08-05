@@ -1,15 +1,11 @@
-- ♂️ My name is SANZ_khece
-- ⛩️ I am anime lovers !
-- 🤠 I am 20 years old ◉‿◉
+- ♂️ ᴍʏ ɴᴀᴍᴇ ɪs sᴀɴᴢ_ᴋʜᴇᴄᴇ
+- ⛩️ ɪ ᴀᴍ ᴀɴɪᴍᴇ ʟᴏᴠᴇʀs !
+- 🤠 ɪ ᴀᴍ 19 ʏᴇᴀʀs ᴏʟᴅ ଘ(੭˃ᴗ˂)੭
 </p>
 
---->
+
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=6283835317555&text=.menu) 
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283143155277) 
-
-
-
-
 
 <h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
 <p align="center">
@@ -17,11 +13,6 @@
 </p>
 
 <p align="center">
-
-- ♂️ ᴍʏ ɴᴀᴍᴇ ɪs sᴀɴᴢ_ᴋʜᴇᴄᴇ
-- ⛩️ ɪ ᴀᴍ ᴀɴɪᴍᴇ ʟᴏᴠᴇʀs !
-- 🤠 ɪ ᴀᴍ 19 ʏᴇᴀʀs ᴏʟᴅ ଘ(੭˃ᴗ˂)੭
-</p>
 
 ------
 ### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ☎️
