@@ -26,7 +26,7 @@
   <a name=zaenudinn=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/zaenudinn"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="[](https://www.youtube.com/@Sanzofficiall)"><img src="https://img.shields.io/youtube/channel/subscribers/UCD_w05gKF5F_5BNPABShNyQ?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fatiharridho&color=green&style=flat-square&label=Profile+View"></a>
+  <a href="https://komarev.com/ghpvc/?username=sanz officiall&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fatiharridho&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
 ### My Waifu 😼
