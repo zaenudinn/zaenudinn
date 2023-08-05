@@ -8,6 +8,9 @@
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283143155277) 
 
 
+
+
+
 <h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
 <p align="center">
   <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
@@ -15,28 +18,33 @@
 
 <p align="center">
 
+- ♂️ ᴍʏ ɴᴀᴍᴇ ɪs sᴀɴᴢ_ᴋʜᴇᴄᴇ
+- ⛩️ ɪ ᴀᴍ ᴀɴɪᴍᴇ ʟᴏᴠᴇʀs !
+- 🤠 ɪ ᴀᴍ 19 ʏᴇᴀʀs ᴏʟᴅ ଘ(੭˃ᴗ˂)੭
+</p>
+
 ------
-### Connect with me ☎️
+### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ☎️
 <p align="center">
   <a href="https://instagram.com/znzsanz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/qr/I2E5SFIX562PG1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="[https://www.facebook.com/m.fatdho](https://www.facebook.com/profile.php?id=100079865705920)"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/fatdho"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white"[@Sanzyii03]" /> <br>
-  <a href="https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ"><img src="https://img.shields.io/badge/YouTube-fatih arridho-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://www.youtube.com/@Sanzofficiall" /><br>
-  <a name=zaenudinn=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/zaenudinn"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="[](https://www.youtube.com/@Sanzofficiall)"><img src="https://www.youtube.com/@Sanzofficiall" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=sanz officiall&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=sanz officiall&color=green&style=flat-square&label=Profile+View"></a>
+  <a href="https://www.facebook.com/100079865705920"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://t.me/Sanzyii03"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://www.youtube.com/@Sanzofficiall"><img src="https://img.shields.io/badge/YouTube-Sanz officiall-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/Sanzofficiall" /><br>
+  <a name=Sanz officiall&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://github.com/fzaenudinn"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://youtube.com/channel/Sanzofficiall"><img src="https://img.shields.io/youtube/channel/subscribers/Sanzofficiall?style=social" /> <br>
+  <a href="https://komarev.com/ghpvc/?username=sanzoofficial&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=sanzoofficial&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
-### My Waifu 😼
+### My Waifu (❀❛ ֊ ❛„)♡
 <p align="center">
   <img src="https://telegra.ph/file/ee07cffd31ecbbea12bbf.png" />
 </p>
 
 ------
 
-### Spotify Playing 🎧
+### sᴘᴏᴛɪғʏ ᴘʟᴀʏɪɴɢ 🎧
 
 <p align="center">
   <a href="https://open.spotify.com/user/nf3xjkwb8gsuq2b0t8bimjt58" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
@@ -44,14 +52,19 @@
 
 ------
 
-### Github Stats 🚀
+### ɢɪᴛʜᴜʙ sᴛᴀᴛᴜs 🚀
 
 <p align="center"><a href="https://github.com/zaenudinn"><img src="https://github-readme-stats.vercel.app/api?username=fatiharridho&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/zaenudinn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiharridho&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/zaenudinn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaenudin &theme=radical&layout=compact"></a></p> 
 
-<a href="https://github.com/adiwajshing/zaenudinn">![github card](https://github-readme-stats.vercel.app/api/pin/?username=adiwajshing&repo=baileys&theme=nightowl)</a>
-<a href="https://github.com/zaenudinn/islamiah">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=islamiah&theme=nightowl)</a>
-<a href="https://github.com/zaenudinn/pramuka">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=pramuka&theme=dark)</a>
+### ᴍʏ ᴘʀᴏᴊᴇᴄᴛ ᴡɪᴛʜ ᴄʀᴇᴀᴛᴏʀ ʙᴏᴛ 🔭
+<a href="https://github.com/zaenudinn/bot-full-fitur">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=brutal&theme=dark)</a>
+<a href="https://github.com/zaenudinn/CheemsBot-MD8">![github card](https://github-readme-stats.vercel.app/api/pin/?username=dikaardnt&repo=hisoka-morou&theme=nightowl)</a>
+<a href="https://github.com/zhwzein/Killua-Zoldyck">![github card](https://github-readme-stats.vercel.app/api/pin/?username=zhwzein&repo=killua-zoldyck&theme=dark)</a>
+<a href="https://github.com/adiwajshing/Baileys">![github card](https://github-readme-stats.vercel.app/api/pin/?username=adiwajshing&repo=baileys&theme=nightowl)</a>
+<a href="https://github.com/zeeone-ofc/Alphabot-Md">![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=alphabot-md&theme=dark)</a>
+<a href="https://github.com/FatihArridho/islamiah">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=islamiah&theme=nightowl)</a>
+<a href="https://github.com/FatihArridho/pramuka">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=pramuka&theme=dark)</a>
 
 
 <p align="center">
